@@ -12,3 +12,5 @@ Bitcoinウォレット機能を実装したアプリのリポジトリです。
   2. <a href="https://github.com/mashharuki/bitcoin-web-wallet">https://github.com/mashharuki/bitcoin-web-wallet</a>
   3. <a href="https://github.com/mashharuki/insight-api">https://github.com/mashharuki/insight-api</a>
   4. <a href="https://github.com/mashharuki/bitcoinjs-lib">bitcoin js</a>
+  5. <a href="https://tech.bitbank.cc/bitcoin-wallet/">ビットコインウォレットを作ろう！</a>
+                                                        
