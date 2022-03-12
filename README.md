@@ -10,6 +10,23 @@ Bitcoinウォレット機能を実装したアプリのリポジトリです。
 ### 利用するAPI
     BitGo社のAPIを利用するので、アカウントの作成とアクセストークンを作成してください。
 
+### BitGoのSDKインストール準備
+  下記コマンドにて調査
+  `npm i bitgo`
+
+  使い方の列
+  
+  ```js
+    const BitGoJS = require('bitgo');
+    // Read the user authentication section to get your API access token
+    // .envをclientファイル配下に作成してREACT_BITGO_API_ACCESS_TOKENを設定する。
+    const bitgo = new BitGoJS.BitGo({
+      env: 'test',
+      accessToken: process.env.REACT_BITGO_API_ACCESS_TOKEN,
+    });
+    const coin = bitgo.coin('tbtc');
+  ```
+
 ### 参考サイト
   1. <a href="https://www.blockchain.com/api">https://www.blockchain.com/api</a>
   2. <a href="https://github.com/mashharuki/bitcoin-web-wallet">https://github.com/mashharuki/bitcoin-web-wallet</a>
