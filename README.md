@@ -7,6 +7,9 @@ Bitcoinウォレット機能を実装したアプリのリポジトリです。
   3. アカウント作成＆管理機能
   4. トランザクション履歴照会機能
 
+### 利用するAPI
+    BitGo社のAPIを利用するので、アカウントの作成とアクセストークンを作成してください。
+
 ### 参考サイト
   1. <a href="https://www.blockchain.com/api">https://www.blockchain.com/api</a>
   2. <a href="https://github.com/mashharuki/bitcoin-web-wallet">https://github.com/mashharuki/bitcoin-web-wallet</a>
