@@ -51,7 +51,8 @@ Bitcoinウォレット機能を実装したアプリのリポジトリです。
     "coin":"btc",
     "wallet":"622c013489be5500077e2c48c0d97df5",
     "coinSpecific":{
-      "redeemScript":"00204cab21afd336786cd7f49a68f092a56fbe61e9fa4dfdcbe6759ea6112e9afed7","witnessScript":"522102df3af4bba8abef4d92743b38e623ab1e1dd18efd7bd149f38b1be27d3003dbe52102c1132597b7aadee01306d0b9421a81e29097b99f0ead91040c7588c66733047e21027ccb8b6233e2b624e6f14eecf5f02899930af0c7acf9a2b155f18e64bea84d6253ae"
+      "redeemScript":"00204cab21afd336786cd7f49a68f092a56fbe61e9fa4dfdcbe6759ea6112e9afed7",
+      "witnessScript":"522102df3af4bba8abef4d92743b38e623ab1e1dd18efd7bd149f38b1be27d3003dbe52102c1132597b7aadee01306d0b9421a81e29097b99f0ead91040c7588c66733047e21027ccb8b6233e2b624e6f14eecf5f02899930af0c7acf9a2b155f18e64bea84d6253ae"
     }
   }],
   "count":1
