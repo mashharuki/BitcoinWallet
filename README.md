@@ -66,4 +66,6 @@ Bitcoinウォレット機能を実装したアプリのリポジトリです。
   4. <a href="https://github.com/mashharuki/bitcoinjs-lib">bitcoin js</a>
   5. <a href="https://tech.bitbank.cc/bitcoin-wallet/">ビットコインウォレットを作ろう！</a>
   6. <a href="https://app.bitgo.com/docs/#section/Multi-Signature-Wallets">BitGo社のAPIドキュメント</a>
+  7. <a href="https://www.blockcypher.com/getting-started.html">blockcypher.com</a>
+  8. <a href="https://docs.blockstream.com/blockstream-amp/api-tutorial.html#">blockstream社のAPIチュートリアル</a>
                                                         
